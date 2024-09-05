@@ -1,0 +1,2 @@
+cd C:\Users\Moona\Downloads\Udemy\Udemy Eclipse workspace\opencart_cucumber
+mvn test
